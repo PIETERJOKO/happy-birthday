@@ -4,7 +4,7 @@
 // ============================================
 
 // ====== GANTI BAGIAN INI ======
-const birthdayName = "Desima";
+const birthdayName = "Mutia Dwi Septianti, S.Pd., Gr.";
 
 const birthdayMessage =
     "Semoga di usia yang baru kamu selalu diberikan " +
